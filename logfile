@@ -1,0 +1,4 @@
+2021-11-21 12:38:18.731 CST [20664] FATAL:  lock file "postmaster.pid" already exists
+2021-11-21 12:38:18.731 CST [20664] HINT:  Is another postmaster (PID 20649) running in data directory "/usr/local/var/postgres"?
+2021-11-21 12:39:37.094 CST [20917] FATAL:  lock file "postmaster.pid" already exists
+2021-11-21 12:39:37.094 CST [20917] HINT:  Is another postmaster (PID 20649) running in data directory "/usr/local/var/postgres"?
